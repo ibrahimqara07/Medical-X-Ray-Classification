@@ -1,5 +1,5 @@
 # Medical-X-Ray-Classification
-TASK 14 – Medical X-Ray Classification
+– Medical X-Ray Classification
 
 Chest X-Ray Pneumonia Detection using ResNet18
 
